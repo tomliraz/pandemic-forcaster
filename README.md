@@ -11,15 +11,6 @@ PF is a software based model designed to predict the progression and outcomes of
 * Features a heatmap showing the relative rate of infections originating at 3 types of sites: residential, work, and recreational.
 * Required Input: R0 value (indicating Contagiousness), infection period, and mortality rate.
 * Output: the predicted number of uninfected, infected, recovered, and deaths. Average number of infections caused at each site: residential, work, and recreational.
-## Installing
-a. Download the zip file from here: XXXXX
-b. Extract and run the executable.
-## Instructions
-Type in the R0 value, infectious period, and the mortality rate, then click “Run”.
-**Sample inputs to try out:**
-COVID19 - R0:2.5 | Infectious Period: 14 days | Mortality Rate: 0.038
-Ebola - R0:1.7 | Infectious Period: 10 days | Mortality Rate: 0.325
-Measles - R0:15 | Infectious Period: 5 days | Mortality Rate: 0.002
 ## Built With
 SFML 2.5.1 Library
 ## Creator
