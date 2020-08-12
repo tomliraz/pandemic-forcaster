@@ -1,7 +1,7 @@
 # Pandemic Forecaster (PF)
 A program designed to forecast the progression and outcomes of a pandemic spread.
 
-![Screenshot](sssss)
+![](https://github.com/tomliraz/pandemic-forcaster/blob/master/Images/Screenshot.png)
 
 PF is a software based model designed to predict the progression and outcomes of a pandemic spread. It assumes a city with 100,000 inhabitants, a time frame of 180 days, and considers 3 types of infection sites: residential, work, and recreational.
 ## Program Highlights
